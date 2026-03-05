@@ -1,0 +1,10 @@
+Starting Schoology Automation...
+Current MODE: 1
+Navigating to login page...
+
+==================================================
+ACTION REQUIRED: Please log in to Schoology in the opened browser window.
+Once logged in and ready, click the 'Resume' button in the Playwright Inspector
+or close the inspector window to continue (if using python input to resume).
+Script is paused...
+==================================================
